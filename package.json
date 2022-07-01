@@ -1,0 +1,22 @@
+{
+  "name": "bedu-front",
+  "version": "1.0.0",
+  "description": "1. Ingresar a GitHub\r 2. Crear la cuenta de GitHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jym-tech/bedu-front.git"
+  },
+  "author": "Juana Maria Loredo Vazquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jym-tech/bedu-front/issues"
+  },
+  "homepage": "https://github.com/jym-tech/bedu-front#readme",
+  "dependencies": {
+    "saas": "^1.0.0"
+  }
+}
